@@ -1,5 +1,9 @@
 # Championship-ranking-vizualisation
 
+<p align="center">
+  <img src="https://github.com/satacroteam/Championship-ranking-vizualisation/blob/master/image.png"/>
+</p>
+
 Projet de data vizualisation: visualisation de classements (sportifs) et de prevision 
 
 [Research report](https://github.com/satacroteam/Championship-ranking-vizualisation/blob/master/Article.pdf)
