@@ -747,7 +747,7 @@
                                           if(i<10){
                                           svg.append("text")
                                           .attr("x",(((i+1)*5)))
-                                          .attr("y", height + (margin.bottom/2)+ 15)
+                                          .attr("y", height + (margin.bottom/2)+ 20)
                                           .attr("class", "legend")
                                           .style("fill", function() {
                                                  return d.color = color(d.key); })
@@ -763,7 +763,7 @@
                                           }
                                           else{
                                           svg.append("text")
-                                          .attr("x", ((i-9)*15))
+                                          .attr("x", ((i-9)*20))
                                           .attr("y", height + (margin.bottom/2)+30)
                                           .attr("class", "legend")
                                           .style("fill", function() {
